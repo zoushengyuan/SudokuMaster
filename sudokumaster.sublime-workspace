@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"matrixSize"
+			],
+			[
+				"m",
+				"matrixSize"
+			],
+			[
+				"all",
+				"all_situation\tstatement"
+			],
+			[
+				"ge",
+				"generate_sukodu\tfunction"
+			],
+			[
+				"matr",
+				"matrixDimension\tstatement"
+			],
+			[
+				"sel",
+				"selction"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"sta",
+				"statement_words"
+			],
+			[
+				"get",
+				"get_statement_words"
+			],
+			[
+				"word",
+				"words_three_questions"
+			],
+			[
+				"a",
+				"assertEqual"
+			],
+			[
+				"questions",
+				"questions_freq"
+			],
+			[
+				"words",
+				"words_questions"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"work",
+				"worksheet"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"so",
+				"sound"
+			],
+			[
+				"doc",
+				"doc_name"
+			],
+			[
+				"not",
+				"not_match_wordlist"
+			],
+			[
+				"make",
+				"make_word"
+			],
+			[
+				"samp",
+				"samples_text_id"
+			],
+			[
+				"split",
+				"split_questions"
+			],
+			[
+				"mean",
+				"meanings_samples"
+			],
+			[
+				"sort",
+				"sorted_words"
+			],
+			[
+				"is",
+				"is_print"
+			],
+			[
+				"is_",
+				"is_part1"
+			],
+			[
+				"v",
+				"valid_question"
+			],
+			[
+				"handle",
+				"handle_question"
+			],
+			[
+				"pars",
+				"parse_part_I"
+			],
+			[
+				"dir",
+				"dictionary"
+			],
+			[
+				"file",
+				"filenames"
+			],
+			[
+				"co",
+				"collections"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"run",
+				"Dart: Run"
+			],
+			[
+				"an",
+				"Anaconda: Vagrant Init"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/GitHub/python-sudoku/test_sudoku.py",
+		"/D/GitHub/python-sudoku/sudoku.py",
+		"/C/Users/Administrator/Desktop/about github.txt",
+		"/C/Users/Administrator/Desktop/note.txt",
+		"/D/GitHub/python-sudoku/python-sudoku.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/D/GitHub/python-sudoku/easy50.txt",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/prog/sudoku-norvig-master/sudoku.py",
+		"/D/prog/git/Chinese_cloud/chinese_cloud/integral_occupancy_map.py",
+		"/D/prog/git/Chinese_cloud/chinese_cloud/stopwords",
+		"/D/prog/git/Chinese_cloud/chinese_cloud/chinese_cloud.py",
+		"/C/Users/Administrator/Documents/GitHub/pysudoku/test_generate_sudoku.py",
+		"/D/prog/git/Chinese_cloud/chinese_cloud/__init__.py",
+		"/C/Users/Administrator/Documents/GitHub/pysudoku/sudoku.py",
+		"/D/prog/git/Chinese_cloud/example/__init__.py",
+		"/D/prog/git/Chinese_cloud/example/CPCreport.py",
+		"/C/Users/Administrator/AppData/Local/GitHub/TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc/new-repo/README.md",
+		"/D/prog/git/Chinese_cloud/example/CPCreport.txt",
+		"/C/Users/Administrator/Documents/GitHub/pysudoku/generate_sudoku.py",
+		"/D/prog/python/a.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/D/prog/python/python.sublime-project",
+		"/D/prog/python/a.sublime-project",
+		"/E/duanjiehui/20170731/stmt_words1.py",
+		"/E/duanjiehui/20170731/stmt_words.py",
+		"/E/duanjiehui/20170731/choice.py",
+		"/E/duanjiehui/20170731/stmt_words1.xlsx",
+		"/E/duanjiehui/20170731/Dict.py",
+		"/E/duanjiehui/20170731/duplication.py",
+		"/E/duanjiehui/20170731/sheet.py",
+		"/E/prog/24/24.py",
+		"/E/duanjiehui/20170726/choice.py",
+		"/E/prog/clock/clock.py",
+		"/C/python/Lib/urllib/request.py",
+		"/C/python/Lib/shelve.py",
+		"/C/Users/Administrator/Desktop/a.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/duanjiehui/20170726/Dict.py",
+		"/E/duanjiehui/20170726/questions_freq.py",
+		"/E/duanjiehui/20170726/sheet.py",
+		"/E/duanjiehui/20170726/test_choice.py",
+		"/E/duanjiehui/20170726/choose.py",
+		"/E/duanjiehui/20170726/sheet_test.py",
+		"/E/duanjiehui/20170725/questions_freq.py",
+		"/E/duanjiehui/20170725/sheet.py",
+		"/E/duanjiehui/20170722/Dict.py",
+		"/E/duanjiehui/20170722/dir.py",
+		"/E/duanjiehui/20170722/sheet.py",
+		"/E/duanjiehui/20170725/Dict.py",
+		"/E/duanjiehui/20170722/bookexcel.py",
+		"/E/duanjiehui/20170722/table.py",
+		"/E/duanjiehui/20170722/Word.py",
+		"/D/target knife/hello.py",
+		"/D/data/direct/Hello.py",
+		"/E/duanjiehui/freq/Dict.py",
+		"/E/duanjiehui/freq/bookexcel.py",
+		"/C/Users/Administrator/.ssh/id_rsa.pub",
+		"/D/github/some-repository/hello.py",
+		"/D/github/some-clone/hello.py",
+		"/D/github/Spoon-Knife/hello.py",
+		"/E/duanjiehui/freq/bookwords.py",
+		"/E/duanjiehui/freq/Freq.py",
+		"/D/github/README",
+		"/D/github/repo/hi.py",
+		"/E/duanjiehui/freq/word.py",
+		"/E/duanjiehui/freq/abcd.txt",
+		"/E/duanjiehui/freq/table.py",
+		"/E/duanjiehui/freq/freq.py",
+		"/E/duanjiehui/freq/dict.py",
+		"/E/duanjiehui/单词词频统计专用文章/freq.py",
+		"/E/duanjiehui/单词词频统计专用文章/table.py",
+		"/E/duanjiehui/freq/demo/word/styles.xml",
+		"/E/duanjiehui/freq/demo/word/fontTable.xml",
+		"/E/duanjiehui/freq/demo/word/document.xml",
+		"/F/dictionary/dict.py",
+		"/E/duanjiehui/djh/freq.py",
+		"/E/duanjiehui/dictionary/dict.py",
+		"/E/duanjiehui/单词词频统计专用文章/abcd.txt",
+		"/E/duanjiehui/djh/chen/dict.py",
+		"/E/duanjiehui/ex.py",
+		"/E/duanjiehui/djh/chen/filenames.py",
+		"/C/Users/Administrator/Desktop/chen/filenames.py",
+		"/E/duanjiehui/chen/あ行完成版/dict.py",
+		"/D/prog/dart/hello.dart",
+		"/E/duanjiehui/freq.py",
+		"/E/duanjiehui/freq1.py",
+		"/D/prog/python/deep/hello.py",
+		"/D/time.py",
+		"/D/Documents/Downloads/jdzm.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"matrixDimension",
+			"from_file",
+			"print",
+			"curent",
+			"青年の老い易いということ、従って、感覚も鋭敏で肉体も丈夫な時代に、自分の力量の養いになるものをできるだけ豊富に取り入れるということは、青春時代の最も大切な心掛けである。(2015年解读A[一]-正文)",
+			"min_of_questions_num_of_word",
+			"key=",
+			"key",
+			"dictionary",
+			"split",
+			"dictionary",
+			"subpart",
+			"\\r",
+			"、",
+			"try",
+			"self.part = None",
+			"self.part",
+			"doc_names",
+			"chacteristic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"matrixSize",
+			"now",
+			"max_questions",
+			"raw_doc",
+			"self.part = 0",
+			"characteristic"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 211.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "sudokumaster.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
